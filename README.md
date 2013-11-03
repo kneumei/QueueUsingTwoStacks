@@ -42,7 +42,7 @@ These are the outputs you should expect from the above inputs:
 * Dequeue method returns 5, queue = { }
 
 ####REFERENCE
-[David Hudson](https://davidhudson.me) and I were discussing this very problem over lunch last week.  He even mentioned that it would be a good code kata and I agreed 100%.  Thanks, [David](https://twitter.com/_davidhudson)!
+[David Hudson](https://davidhudson.me) and I were discussing this very problem over lunch last week.  He even mentioned that it would be a good code kata and I agreed 100% which is how this code kata was formulated.  Thanks, [David](https://twitter.com/_davidhudson)!
 
 ### Answer Submission Instructions
 1. Fork this repository.
