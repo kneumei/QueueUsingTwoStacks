@@ -7,7 +7,7 @@ A [queue](http://en.wikipedia.org/wiki/Queue) is a collection which takes the va
 Implement the following methods for your queue class (FIFO):
 * **void Enqueue(int value)** - this method adds the value to the front of the queue.
 * **int Dequeue()** - this method will get the value from the front of the queue and remove it from the list.
-* **Note** Use two stacks to implement the internals of queue.
+* **Note:** Use two stacks to implement the internals of the queue.
 
 Implement the following methods for your stack class (LIFO):
 * **void Push(int value)** - this method adds the value to the top of the stack.
